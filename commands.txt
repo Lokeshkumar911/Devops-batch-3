@@ -8,4 +8,5 @@ git diff
 git status
 git restore
 git checkout
+git config --global user.name "Lokesh"
 
