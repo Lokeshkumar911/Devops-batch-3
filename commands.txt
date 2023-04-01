@@ -9,4 +9,7 @@ git status
 git restore
 git checkout
 git config --global user.name "Lokesh"
+git remote add origin giturl.......
+git remote -v
 
+git push origin master 
