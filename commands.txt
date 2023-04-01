@@ -1,0 +1,11 @@
+git init
+git add .
+hit add <file>
+git commit -m "this my file commit"
+
+git log
+git diff
+git status
+git restore
+git checkout
+
